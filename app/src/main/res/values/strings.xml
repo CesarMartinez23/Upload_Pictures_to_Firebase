@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Upload Pictures Firebase</string>
+    <string name="txt_upload_pictures_firebase">Upload Pictures Firebase</string>
+    <string name="txt_select_picture">Select Picture</string>
+    <string name="txt_upload_picture">Upload Picture</string>
+    <string name="txt_name_of_the_picture">Name of the Picture</string>
+</resources>
